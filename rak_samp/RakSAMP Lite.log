@@ -1,0 +1,153 @@
+[20:47:35]  
+[20:47:35] * ===================================================== *
+[20:47:35]   RakSAMP Lite initialized on 11/11/2026 20:47:35
+[20:47:35]   Authors: jlfm, bartekdvd, P3ti, Rei
+[20:47:35]   Visit t.me/reiscripts
+[20:47:35] * ===================================================== *
+[20:47:35]  
+[20:47:35] [LUA] Loading scripts...
+[20:47:35] [LUA] C:\Users\123123\Desktop\rak_samp\scripts\termuh.lua:2777: module 'encoding' not found:
+	no field package.preload['encoding']
+	no file 'C:\Users\123123\Desktop\rak_samp\scripts\libs\encoding.lua'
+	no file 'C:\Users\123123\Desktop\rak_samp\scripts\libs\encoding\init.lua'
+	no file 'C:\Users\123123\Desktop\rak_samp\scripts\encoding.lua'
+	no file 'C:\Users\123123\Desktop\rak_samp\scripts\encoding\init.lua'
+	no file 'C:\Users\123123\Desktop\rak_samp\scripts\libs\encoding.dll'
+stack traceback:
+	[C]: in function 'require'
+	C:\Users\123123\Desktop\rak_samp\scripts\termuh.lua:2777: in main chunk
+[20:47:35] [NET] Connecting to 185.169.134.4:7777...
+[20:47:36] [NET] Connection attempt failed. Reconnecting in 1 seconds.
+[20:47:37] [NET] Connecting to 185.169.134.4:7777...
+[20:47:38] [NET] Connection attempt failed. Reconnecting in 1 seconds.
+[20:47:39] [NET] Connecting to 185.169.134.4:7777...
+[20:47:40] [NET] Connection attempt failed. Reconnecting in 1 seconds.
+[20:47:41] [NET] Connecting to 185.169.134.4:7777...
+[20:47:42] [NET] Connection attempt failed. Reconnecting in 1 seconds.
+[20:47:43] [NET] Connecting to 185.169.134.4:7777...
+[20:47:44] [NET] Connection attempt failed. Reconnecting in 1 seconds.
+[20:47:45] [NET] Connecting to 185.169.134.4:7777...
+[20:47:46] [NET] Connection attempt failed. Reconnecting in 1 seconds.
+[20:47:47] [NET] Connecting to 185.169.134.4:7777...
+[20:47:48] [NET] Connection attempt failed. Reconnecting in 1 seconds.
+[20:47:48] [NET] Disconnected.
+[20:47:49]  
+[20:47:49] * ===================================================== *
+[20:47:49]   RakSAMP Lite initialized on 11/11/2026 20:47:49
+[20:47:49]   Authors: jlfm, bartekdvd, P3ti, Rei
+[20:47:49]   Visit t.me/reiscripts
+[20:47:49] * ===================================================== *
+[20:47:49]  
+[20:47:49] [LUA] Loading scripts...
+[20:47:49] [LUA] C:\Users\123123\Desktop\rak_samp\scripts\termuh.lua:2777: module 'encoding' not found:
+	no field package.preload['encoding']
+	no file 'C:\Users\123123\Desktop\rak_samp\scripts\libs\encoding.lua'
+	no file 'C:\Users\123123\Desktop\rak_samp\scripts\libs\encoding\init.lua'
+	no file 'C:\Users\123123\Desktop\rak_samp\scripts\encoding.lua'
+	no file 'C:\Users\123123\Desktop\rak_samp\scripts\encoding\init.lua'
+	no file 'C:\Users\123123\Desktop\rak_samp\scripts\libs\encoding.dll'
+stack traceback:
+	[C]: in function 'require'
+	C:\Users\123123\Desktop\rak_samp\scripts\termuh.lua:2777: in main chunk
+[20:47:50] [NET] Connecting to 127.0.0.1:7777...
+[20:47:50] [NET] Connection attempt failed. Reconnecting in 1 seconds.
+[20:47:51] [NET] Connecting to 127.0.0.1:7777...
+[20:47:52] [NET] Disconnected.
+[20:48:07]  
+[20:48:07] * ===================================================== *
+[20:48:07]   RakSAMP Lite initialized on 11/11/2026 20:48:07
+[20:48:07]   Authors: jlfm, bartekdvd, P3ti, Rei
+[20:48:07]   Visit t.me/reiscripts
+[20:48:07] * ===================================================== *
+[20:48:07]  
+[20:48:07] [LUA] Loading scripts...
+[20:48:07] [LUA] C:\Users\123123\Desktop\rak_samp\scripts\termuh.lua:2777: module 'encoding' not found:
+	no field package.preload['encoding']
+	no file 'C:\Users\123123\Desktop\rak_samp\scripts\libs\encoding.lua'
+	no file 'C:\Users\123123\Desktop\rak_samp\scripts\libs\encoding\init.lua'
+	no file 'C:\Users\123123\Desktop\rak_samp\scripts\encoding.lua'
+	no file 'C:\Users\123123\Desktop\rak_samp\scripts\encoding\init.lua'
+	no file 'C:\Users\123123\Desktop\rak_samp\scripts\libs\encoding.dll'
+stack traceback:
+	[C]: in function 'require'
+	C:\Users\123123\Desktop\rak_samp\scripts\termuh.lua:2777: in main chunk
+[20:48:07] [NET] Connecting to 185.169.134.4:7777...
+[20:48:08] [NET] Connection attempt failed. Reconnecting in 1 seconds.
+[20:48:09] [NET] Connecting to 185.169.134.4:7777...
+[20:48:10] [NET] Connection attempt failed. Reconnecting in 1 seconds.
+[20:48:11] [NET] Connecting to 185.169.134.4:7777...
+[20:48:12] [NET] Connection attempt failed. Reconnecting in 1 seconds.
+[20:48:13] [NET] Connecting to 185.169.134.4:7777...
+[20:48:14] [NET] Connection attempt failed. Reconnecting in 1 seconds.
+[20:48:15] [NET] Connecting to 185.169.134.4:7777...
+[20:48:16] [NET] Connection attempt failed. Reconnecting in 1 seconds.
+[20:48:17] [NET] Connecting to 185.169.134.4:7777...
+[20:48:18] [NET] Connection attempt failed. Reconnecting in 1 seconds.
+[20:48:19] [NET] Connecting to 185.169.134.4:7777...
+[20:48:20] [NET] Connection attempt failed. Reconnecting in 1 seconds.
+[20:48:21] [NET] Connecting to 185.169.134.4:7777...
+[20:48:22] [NET] Connection attempt failed. Reconnecting in 1 seconds.
+[20:48:23] [NET] Connecting to 185.169.134.4:7777...
+[20:48:24] [NET] Connection attempt failed. Reconnecting in 1 seconds.
+[20:48:25] [NET] Connecting to 185.169.134.4:7777...
+[20:48:26] [NET] Connection attempt failed. Reconnecting in 1 seconds.
+[20:48:27] [NET] Connecting to 185.169.134.4:7777...
+[20:48:28] [NET] Connection attempt failed. Reconnecting in 1 seconds.
+[20:48:28] [NET] Disconnected.
+[20:48:31]  
+[20:48:31] * ===================================================== *
+[20:48:31]   RakSAMP Lite initialized on 11/11/2026 20:48:31
+[20:48:31]   Authors: jlfm, bartekdvd, P3ti, Rei
+[20:48:31]   Visit t.me/reiscripts
+[20:48:31] * ===================================================== *
+[20:48:31]  
+[20:48:31] [LUA] Loading scripts...
+[20:48:31] [LUA] C:\Users\123123\Desktop\rak_samp\scripts\termuh.lua:2777: module 'encoding' not found:
+	no field package.preload['encoding']
+	no file 'C:\Users\123123\Desktop\rak_samp\scripts\libs\encoding.lua'
+	no file 'C:\Users\123123\Desktop\rak_samp\scripts\libs\encoding\init.lua'
+	no file 'C:\Users\123123\Desktop\rak_samp\scripts\encoding.lua'
+	no file 'C:\Users\123123\Desktop\rak_samp\scripts\encoding\init.lua'
+	no file 'C:\Users\123123\Desktop\rak_samp\scripts\libs\encoding.dll'
+stack traceback:
+	[C]: in function 'require'
+	C:\Users\123123\Desktop\rak_samp\scripts\termuh.lua:2777: in main chunk
+[20:48:32] [NET] Connecting to 185.169.134.84:7777...
+[20:48:32] [NET] Connected. Joining the game...
+[20:48:36] [MSG]  
+[20:48:36] [MSG]  
+[20:48:36] [MSG]  
+[20:48:36] [MSG]  
+[20:48:36] [MSG]  
+[20:48:36] [MSG]  
+[20:48:36] [MSG]  
+[20:48:36] [MSG]  
+[20:48:36] [MSG]  
+[20:48:36] [MSG]  
+[20:48:36] [MSG]  
+[20:48:36] [MSG]  
+[20:48:36] [MSG]  
+[20:48:36] [MSG]  
+[20:48:36] [MSG]  
+[20:48:36] [MSG]  
+[20:48:36] [MSG]  
+[20:48:36] [MSG]  
+[20:48:36] [MSG]  
+[20:48:36] [MSG]  
+[20:48:36] [MSG]  
+[20:48:36] [MSG]  
+[20:48:36] [MSG]  
+[20:48:36] [MSG]  
+[20:48:36] [MSG]  
+[20:48:36] [MSG]  
+[20:48:36] [MSG]  
+[20:48:36] [MSG]  
+[20:48:36] [MSG]  
+[20:48:36] [MSG]  
+[20:48:36] [NET] Connected to |       Trinity Roleplay  №1      |
+[20:48:36] [RPC] >> Class 0 requested
+[20:48:37] [MSG] Добро пожаловать, Maksim_Blazzer. Надеемся, что вы хорошо проведете время у нас.
+[20:48:37] [RPC] << Set interior: 0
+[20:48:37] [RPC] << Set position: (-2682.44; -307.84; 33.76)
+[20:48:40] [NET] Connection was closed by the server. Reconnecting in 15 seconds.
+[20:48:44] [NET] Disconnected.

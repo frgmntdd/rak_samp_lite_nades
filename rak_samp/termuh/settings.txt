@@ -1,0 +1,27 @@
+; Copy to termuh\settings.txt. Keep local credentials out of Git.
+; RakSAMP network strings and INI text are CP1251.
+[settings]
+password=Luna0501
+proxy=false
+promo_lvl=5
+up_lvl=5
+; token and chatid are optional; Telegram also requires effil and ssl.https.
+
+[cef]
+; Experimental transport from supplied sources; enable after checking your client.
+enabled=false
+; Exactly one event: auth or authorization. No automatic fallback.
+auth_event=auth
+auto_spawn=false
+spawn_index=0
+
+[dialogs]
+delay_ms=500
+registration=false
+auto_spawn=false
+spawn_index=0
+; Exact informational titles, separated by |. Empty means no generic skip.
+skip_titles=
+
+[referals_and_promo]
+; Phoenix=Nickname,PromoCode
